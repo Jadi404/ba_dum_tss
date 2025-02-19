@@ -19,13 +19,13 @@ This project is a simple drum kit that plays sounds when you press certain keys 
 
 | Key | Sound |  
 |----|-------|  
-| W  | Crash |  
-| A  | Kick Drum |  
-| S  | Snare |  
-| D  | Tom |  
-| J  | Hi-hat |  
-| K  | Floor Tom |  
-| L  | Ride Cymbal |  
+| W  | Tom |  
+| A  | Tom |  
+| S  | Floor Tom |  
+| D  | Floor Tom |  
+| J  | Snare |  
+| K  | Ride Cymbal |  
+| L  | Kick Drum |  
 
 ## About This Project  
 
